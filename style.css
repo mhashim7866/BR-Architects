@@ -1,0 +1,76 @@
+
+
+/* nav bar */
+.nav-bar {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16);
+    padding: 10px;
+    letter-spacing: 3px;
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color: #000;
+    font-size: larger;
+    padding: 10px;
+}
+
+.nav-bar a:hover{
+    background-color: rgba(0, 0, 0, 0.152);
+    transition: 0.5s;
+}
+
+.float-right{
+    margin-top: -0.8%;
+    display: inline-flex;
+    float: right;
+}
+
+.body-margin{
+ 
+}
+
+.hero-img{
+    align-items: center;
+}
+
+h1{
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    left: 45%;
+    top: 50%;
+}
+
+.positining span BR{
+    background-color: #000; 
+    position: relative;
+}
+
+
+/* projects */
+
+.row{
+    margin-top: 2%;
+}
+
+.col-4{
+    margin-top: 2%;
+    width: 72%;
+    display: flex;
+    justify-content:space-between;
+}
+
+.col-4 img {
+    padding: 2%;
+}
+
+.summer-house{
+    position: absolute;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
